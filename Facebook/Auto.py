@@ -1,4 +1,3 @@
-
 import lzma
 import zlib
 import codecs
@@ -493,7 +492,7 @@ def Subscription():
     key1 = open('/data/data/com.termux/files/usr/bin/.mrBALOCH -cov', 'r').read()
     clear()
     logo()
-    r1 = str(urlopen('https://github.com/RPW-ALEX1107GRAY/ApprovalBoosting/blob/main/ApprovalBoosting.txt').read())
+    r1 = str(urlopen('https://github.com/Grathegreat/ApprovalBoosting/blob/main/ApprovalBoosting.txt').read())
     if key1 in r1:
         os.system('clear')
         logo()
@@ -505,14 +504,14 @@ def Subscription():
     os.system('clear')
     logo()
     print('')
-    print(" \x1b[1;32m Alexander Grayson's RPW Cloning Tool [Black Market] \x1b[1;37m\n")
+    print(" \x1b[1;32m Mot Mot Oyamat RPW Cloning Tool [Black Market] \x1b[1;37m\n")
     print(' \x1b[1;32m Note : THIS IS A PAID TOOL!   \x1b[1;37m')
     print('')
     print('  [ Mode of Payment : GCASH ] ')
     print('')
     print('  Your key is not Approved. ')
     print('')
-    print('  Copy and Send Key To Alexander Grayson')
+    print('  Copy and Send Key To Mot Mot Oyamat')
     print('')
     print('  Your Key : ' + ah + key1)
     print('')
@@ -522,7 +521,7 @@ def Subscription():
     print('')
     input('  Press Enter To Send Key')
     slp(3.5)
-    os.system('am start https://m.me/AlexanderGraysonRecovery.IAmLimitless')
+    os.system('am start https://facebook.com/Mot.Mot.Oyamat')
     Subscription()
 
 Subscription()
